@@ -1,0 +1,38 @@
+.textbox{
+    color: rgb(0, 0, 0);
+}
+
+.btn-outline-primary{
+    color: #ffffff;
+    border-color: #ffffff;
+    font-family: 'Grandstander', cursive;
+}
+
+/* ใช้หน้าแนะนำการทำอาหาร */
+.boxmenu1{
+    background-color: white;
+    /* border: 15px solid rgb(252, 187, 68); */
+    width: 820px;
+    padding-right: 20px;
+    padding-left: 20px;
+    display: table-cell;
+    vertical-align: top;
+}
+
+.content{
+    line-height: 30px !important;
+    font-size: 18px !important;
+    margin-top: -16px;
+}
+
+.tp_photo_text-1 {
+    margin: 16px 0 !important;
+}
+
+.backgrounmenu01{
+    background-image: url(image01/7.jpg);
+}
+
+.boxmenumove{
+    margin-left: 10%;
+}
